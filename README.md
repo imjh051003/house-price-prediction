@@ -201,7 +201,7 @@ Train과 Test 간 성능 차이가 크지 않아
 단순 평균 대치 대신 Ridge, Lasso, ElasticNet 모델을 비교하여
 가장 성능이 좋은 Lasso 기반 예측값으로 결측치를 대치했습니다.
 
-### 8.2 Categorical Encoding Strategy
+### 8.2 범주형 변수 인코딩 전략
 범주형 변수의 특성을 고려하여
 Target Encoding과 One-Hot Encoding을 선택적으로 적용했습니다.
 
